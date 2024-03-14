@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Lukas
-- 👀 I’m interested in design and software development.
+- 👋 Ahoy, I’m Lukas
+- 👀 I design and develop.
 - 🌱 I’m currently learning SwiftUI, React and Flutter.
 - 💞️ I’m looking to collaborate on Open Source projects as a Product Designer or Project Manager.
 - 📫 You can reach me at lukas@lukylab.com
