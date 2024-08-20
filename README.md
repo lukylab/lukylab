@@ -1,7 +1,7 @@
 - 👋 Ahoy, I’m Lukas
 - 👀 I design and develop.
-- 🌱 I’m currently learning SwiftUI, React and Flutter.
-- 💞️ I’m looking to collaborate on Open Source projects as a Product Designer, SwiftUI developer or Product Manager.
+- 🌱 I’m building apps in SwiftUI, Nextjs and Flutter.
+- 💞️ I work as a Product Designer, SwiftUI developer or Product Manager.
 - 📫 You can reach me at lukas@lukylab.com
 
 <!---
