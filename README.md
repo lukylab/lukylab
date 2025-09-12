@@ -3,6 +3,8 @@
 - 🌱 I’m building apps in SwiftUI, Nextjs and Flutter.
 - 💞️ I work as a Product Designer, SwiftUI developer or Product Manager.
 - 📫 You can reach me at lukas@lukylab.com
+– 🎁 Explore my apps at https://www.luckyapps.dev
+
 
 <!---
 lukylab/lukylab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
