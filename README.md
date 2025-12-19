@@ -1,6 +1,5 @@
 - 👋 Ahoy, I’m Lukas
-- 👀 I design and develop.
-- 🌱 I’m building apps in SwiftUI, Nextjs and Flutter.
+- 👀 I build apps
 - 📫 You can reach me at lukas@lukylab.com
 - 🎁 Explore my apps at https://www.luckyapps.dev
 
