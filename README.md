@@ -1,5 +1,5 @@
 - 👋 Ahoy, I’m Lukas
-- 👀 I build apps
+- 📱 I build apps
 - 📫 You can reach me at lukas@lukylab.com
 - 🎁 Explore my apps at https://www.luckyapps.dev
 
