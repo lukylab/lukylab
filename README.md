@@ -1,7 +1,6 @@
 - 👋 Ahoy, I’m Lukas
-- 📱 I build apps
+- 📱 I build iOS apps: https://www.luckyapps.dev
 - 📫 You can reach me at lukas@lukylab.com
-- 🎁 Explore my apps at https://www.luckyapps.dev
 
 
 <!---
